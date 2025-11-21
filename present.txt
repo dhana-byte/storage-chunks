@@ -1,0 +1,8 @@
+In today’s rapidly evolving digital economy, effective personal finance management is crucial yet often neglected due to reliance on traditional, fragmented, or manual methods. These outdated practices lead to inefficiencies, errors, lack of real-time insights, and poor financial decision-making.
+
+Ledger Lite is a smart and centralized personal finance management system designed to simplify and enhance the way individuals handle their money. It empowers users to monitor income, track expenses, manage savings, and handle bill payments through an intuitive and secure platform.
+
+The system integrates modern features such as interactive visual dashboards, offering personalized financial insights and timely reminders. Additional features like peer-to-peer expense sharing, group wallets for families, and cloud-based multi-device synchronization make the solution scalable and collaborative.
+
+Ledger Lite aims to replace manual tracking with a digital-first approach that is intelligent, responsive, and user-friendly, promoting better financial habits while ensuring data privacy and security. This project envisions not just managing money, but empowering users to make smarter financial decisions through meaningful analytics and automation.  this is the abstract of the project ,now we have to make presentation for ideation phase,give slide wise info :first slide team 'savrr' with team member names , second slide abstract ,third slide give statistics of how many are using online payment apps  like paytm,gpay ,etc .fourth slide idea evolution give the info of first or initial idea of having  
+
