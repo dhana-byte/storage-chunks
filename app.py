@@ -23,6 +23,7 @@
   </style>
 </head>
 <body>
+<a href="abstractpre.txt" style="display:none;"></a>
   <h1>Static Diagnostics — Ports & File Sizes</h1>
   <p class="lead">This static page inspects the current origin (host:port) and attempts to fetch file sizes for common files and assets found on the page.</p>
 
